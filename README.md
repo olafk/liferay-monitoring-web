@@ -16,6 +16,9 @@ You can also find the output after each page load in the logs, if you set the lo
 ## Built & Tested on
 
 * DXP 7.3 FP2 
+* Build instructions: Clone this repository into the `modules` directory of a Liferay Workspace
+* optionally adjust dependencies, e.g. from `release.dxp.api` to `release.portal.api`
+* Utilizes the workspace's target platform configuration
 
 ## To Do
 
