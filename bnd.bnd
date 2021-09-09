@@ -1,0 +1,4 @@
+Bundle-Name: monitoring-web
+Bundle-SymbolicName: com.liferay.sales.monitoring.filter
+Bundle-Version: 1.0.0
+Bundle-Activator: com.liferay.sales.monitoring.filter.MonitoringActivator
